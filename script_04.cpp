@@ -17,6 +17,8 @@ int main () {
         cout << "Invalid marks" << endl;
     }
 
+    marks > 50 ? cout << "Above average" << endl: cout << "Below average" << endl;
+
     return 0;
 
 }

@@ -67,6 +67,10 @@ else if (/*condition*/) {
 else {
     // code
 }
+
+// Ternary Operator
+
+/* Condition */ ? : /* Expression 1 */ : /* Expression 2 */;
 ```
 <br/>
 
