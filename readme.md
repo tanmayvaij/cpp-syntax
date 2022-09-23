@@ -1,6 +1,6 @@
 # C++ Synax
 
-> ### 1. Hello World
+### 1. Hello World
 ```cpp
 #include <iostream>
 using namespace std;
@@ -15,7 +15,7 @@ int main () {
 ```
 <br/>
 
-> ### 2. Data Types
+### 2. Data Types
 
 
 // Sample script - script_02.cpp
@@ -34,7 +34,7 @@ int main () {
 
 <br/>
 
-> ### 3. Taking user Input
+### 3. Taking user Input
 
 ```cpp
 // script_03.cpp
@@ -53,7 +53,7 @@ int main () {
 ```
 <br/>
 
-> ### 4. Conditional Statements
+### 4. Conditional Statements
 
 ```cpp
 // Sample script - script_04.cpp
@@ -74,7 +74,7 @@ else {
 ```
 <br/>
 
-> ### 5. Loops
+### 5. Loops
 
 ```cpp
 // Sample script - script_05.cpp
@@ -100,7 +100,7 @@ while ( /*condition*/ );
 ```
 <br/>
 
-> ### 6. Break and Continue
+### 6. Break and Continue
 
 ```cpp
 // Sample script - script_06.cpp
@@ -137,7 +137,7 @@ Output:-
 ```
 <br/>
 
-> ### 7. Switch - Case
+### 7. Switch - Case
 
 ```cpp
 // Sample script - script_07.cpp 
@@ -160,7 +160,8 @@ switch ( /* expression */ ) {
 ```
 <br/>
 
-> ### 8. Operators in C++
+### 8. Operators in C++
+<br/>
 
 > Assignment Operators
 
