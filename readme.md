@@ -224,3 +224,14 @@ switch ( /* expression */ ) {
 | &#124;= | Bitwise inclusive OR and assignment operator. |
 
 <br/>
+
+### 9. Comments in C++
+
+```cpp
+// Single Line Comment
+
+/*
+    This is a 
+    multiline comment
+*/
+```
