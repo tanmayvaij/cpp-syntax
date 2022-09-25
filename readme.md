@@ -241,3 +241,13 @@ switch ( /* expression */ ) {
     multiline comment
 */
 ```
+
+### 10. Functions
+
+```cpp
+// Sample script:- script_08.cpp
+
+returnType functionName(parameter1, parameter2, ...) {
+    // function body
+}
+```
